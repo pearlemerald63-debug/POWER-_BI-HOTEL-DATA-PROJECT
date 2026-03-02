@@ -9,6 +9,8 @@ The dataset encompasses various aspects of hotel bookings, ranging from booking 
 
 The successful execution of this project will empower the hotel management to make informed decisions, leading to substantial improvements in revenue optimization and guest satisfaction. This not only transforms traditional hotel management methods but also underscores the significance of a proactive, data-driven approach in addressing the evolving challenges of the hospitality industry.
 
+Data Source: [Hotel_booking data](https://docs.google.com/spreadsheets/d/1z3xWzsY8ivHaJXFrrdWejgSS0VkThJ_p/edit?gid=60889679#gid=60889679)
+
 # Project Overview
 
 This project presents a comprehensive Power BI analysis of hotel booking data from 2018–2020. The objective was to transform raw booking data into a structured, analysis-ready dataset and develop an interactive dashboard to support:
