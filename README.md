@@ -52,6 +52,7 @@ Example metrics include:
 # Data transformation and cleaning
 
 The dataset was cleaned by removing duplicates, correcting any inconsistencies, and ensuring the data is in a suitable format for analysis and visualization. Concatenated the reports for all three years for better analysis. Annual datasets were appended and cleaned in Power Query. Steps included error removal, data type corrections, NULL handling, date consolidation, and external country data integration. Time intelligence fields (Year, Month, Week) were created for analysis
+
 <img width="602" height="779" alt="image" src="https://github.com/user-attachments/assets/5752f488-51ae-46e6-bc39-612e06d39e73" />
 
 #Dataset after cleaning
