@@ -23,5 +23,36 @@ This project presents a comprehensive Power BI analysis of hotel booking data fr
 The project follows a complete Power BI workflow:
 Data Sourcing → Data Transformation → Data Modeling → Data Analysis → Business Insights
 
-Throughout the project, we were able to achieve the following:
+# Understand Business Objectives and User Requirements
+We tried to understand the specific requirements and objectives from the business problem. We identified key areas we want to focus on and the questions the business needs answers to.
+
+# Define Business Questions and Metrics
+
+Based on the discussions in Step 1, we defined specific business questions that the dashboard should answer. Example questions include:
+
+- What factors contribute most to booking cancellations?
+- How does booking lead time affect Average Daily Rate (ADR)?
+- How does distribution channel impact cancellation rates and revenue?
+- What is the relationship between previous cancellations and future cancellation likelihood?
+- What are the seasonal trends in bookings across months and years?
+- Do special requests influence repeat stays and guest loyalty?
+
+# Define the metrics and Key Performance Indicators (KPIs) that will help answer the business questions.
+
+Example metrics include:
+
+- Total Bookings
+- Cancelled Bookings
+- Cancellation Rate
+- Total Revenue
+- Average Daily Rate (ADR)
+- Total special request booking
+- Booking Volume
+
+
+
+
+
+
+
 
