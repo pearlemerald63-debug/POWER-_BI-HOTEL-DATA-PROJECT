@@ -1,4 +1,8 @@
 # POWER-_BI-HOTEL-DATA-PROJECT
+
+Interact with the final dashboard here:
+Hotel data source: [Hotel data Folder](https://drive.google.com/drive/u/0/folders/1Hai-blNDz-knkoPCNGmf5h3ndN_JhKuH)
+
 # Business Problem-
 
 The hospitality industry faces high cancellation rates, seasonal demand fluctuations, revenue instabilityacross channels, and limited visibility into repeat guest behavior. This project provides data-driven insights to improve forecasting, pricing, retention and develop a comprehensive strategy to enhance customer satisfaction and optimize revenue.
@@ -55,7 +59,7 @@ The dataset was cleaned by removing duplicates, correcting any inconsistencies, 
 
 <img width="602" height="779" alt="image" src="https://github.com/user-attachments/assets/5752f488-51ae-46e6-bc39-612e06d39e73" />
 
-#Dataset after cleaning
+#  Dataset after cleaning
 <img width="1641" height="822" alt="image" src="https://github.com/user-attachments/assets/d1fe1828-b8ce-4d6e-a0e8-25021e92b19b" />
 
 # Data modelling and relationships.
